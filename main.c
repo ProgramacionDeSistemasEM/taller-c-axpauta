@@ -26,7 +26,7 @@ int main(int argc, char **argv){
 	//Puede declarar más variables si lo necesita.
 	float sum = 0.0f;
 	float max_imc = 0.0f;
-	
+	//Comentario de prueba 
 	
 	
 	
